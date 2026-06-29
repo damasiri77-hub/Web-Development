@@ -1,0 +1,21 @@
+/* // css literally has no structure............just write the code  */
+
+div{
+    background-color:antiquewhite;
+    color: chartreuse;
+    text-align: center;
+    height:250px;
+    width:250px;
+} 
+
+div p{
+    color: black;
+}
+div h2{
+    color: darkred;
+}
+p{
+    background-color: hotpink;
+    color: yellow;
+    width:250px;
+}
